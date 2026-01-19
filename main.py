@@ -68,4 +68,4 @@ from abc import ABC,abstractmethod
 # print(getattr(e1,'_Product__price'))
 # setattr(e1,'in_stock',10)
 # delattr(e1,'_ElectronicProduct__warranty_years')
-# print(e1.__dict__)    
+# print(e1.__dict__)
